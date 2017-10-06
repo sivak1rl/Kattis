@@ -1,4 +1,7 @@
 import java.util.Scanner;
+/**
+ * This solution does NOT work
+ */
 
 public class ls
 {
